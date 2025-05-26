@@ -1,12 +1,12 @@
 <<<<<<< HEAD
 streamlit
 python-docx
-pymupdf
+PyMuPDF
 Pillow
 =======
 streamlit
 python-docx
-pymupdf
+PyMuPDF
 Pillow
 openpyxl
 >>>>>>> 767c67e (Save local changes before pulling)
